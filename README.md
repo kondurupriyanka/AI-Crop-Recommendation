@@ -11,6 +11,11 @@ Revolutionize your farming journey with AI-powered crop recommendations!
 Our advanced technology analyzes soil quality, weather patterns, and market trends to guide you toward the best crops for maximum yield and profit. 
 Whether you're a seasoned farmer or just starting, this tool ensures smarter, data-driven decisions to enhance sustainability and boost productivity.
 
+## Outputs:
+![crop](AI_CROP_WEBSITE.jpg)
+![crop1](AI_CROP_PREDICTION.jpg)
+![crop2](AI_CROP_ABOUT.jpg)
+
 ## AI Crop Recommendation: Website Overview & Workflow
 
 ## Project Objective:
