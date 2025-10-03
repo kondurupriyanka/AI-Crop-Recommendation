@@ -1,9 +1,8 @@
 # AI-Crop-Recommendation
 Website :  https://calm-melomakarona-72c732.netlify.app/
 
-## Optimize your farming with AI-driven crop recommendations tailored to soil, weather, and market trends for maximum yield and profit.
-Our AI Crop Recommendation website is live! 
-Experience the power of AI-driven insights tailored to optimize your farming.
+## Optimize your farming with AI-driven crop recommendations
+
 Simply input soil and weather data, and get personalized crop suggestions backed by advanced machine learning.
 Start farming smarter today—visit now! 
 Revolutionize your farming journey with AI-powered crop recommendations! 
